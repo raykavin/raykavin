@@ -15,6 +15,14 @@
 
 ###
 
+<br clear="both">
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=raykavin.raykavin&left_color=tomato"  />
+</div>
+
+###
+
 <h1 align="left">👋 Codando ideias e quebrando builds. Prazer, Raykavin Meireles</h1>
 
 ###
@@ -68,27 +76,14 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raykavin/raykavin/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raykavin/raykavin/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/raykavin/raykavin/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=raykavin.raykavin&left_color=tomato"  />
-</div>
-
-###
-
-<div align="center">
-</div>
+<h1 align="left"></h1>
 
 ###
 
 <img src="https://raw.githubusercontent.com/raykavin/raykavin/output/snake.svg" alt="Snake animation" />
+
+###
+
+<h6 align="left">"Enquanto você estiver com vontade de correr atrás dos seus sonhos... ninguém poderá te parar." — Naruto Uzumaki</h6>
 
 ###
