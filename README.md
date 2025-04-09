@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://lh3.googleusercontent.com/d/16JkE3HORW27uxMwvqs8DtFMCds3bv9gN"  />
+  <img height="200" src="https://lh3.googleusercontent.com/d/1n68qa7w84E-rFBZ9f9X97ed974v_kzpT"  />
 </div>
 
 ###
@@ -39,6 +39,10 @@
 
 ###
 
+<h3 align="left">🔥Estatísticas:</h3>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
   <img width="12" />
@@ -63,10 +67,6 @@
 
 ###
 
-<h3 align="left">🔥Estatísticas:</h3>
-
-###
-
 <br clear="both">
 
 <div align="center">
@@ -85,6 +85,16 @@
 
 ###
 
+<div align="center">
+  <img height="150" src="https://lh3.googleusercontent.com/d/1NwguL601RtS-d64cInbV3OKSxWdgh8OC"  />
+</div>
+
+###
+
 <h6 align="left">"Enquanto você estiver com vontade de correr atrás dos seus sonhos... ninguém poderá te parar." — Naruto Uzumaki</h6>
+
+###
+
+<h1 align="left"></h1>
 
 ###
