@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">🎓 Estudante de Engenharia de Software tentando compilar a vida<br>💻 Backend Developer viciado em performance, escalabilidade e bons padrões<br>❤️ Gosto de Go como gosto de café: forte, direto e sem açúcar<br>🐧 Team Linux, Docker na veia e uma queda por CyberSecurity<br>🧠 Curioso oficial de IA, visão computacional e redes (sim, fuço de tudo)<br>📱 Flutter e Vue, sim porque nem só de backend vive um dev</p>
+<p align="left">🎓 Estudante de Engenharia de Software tentando compilar a vida<br>💻 Backend Developer viciado em performance, escalabilidade e bons padrões<br>❤️ Gosto de Go como gosto de café: forte, direto e sem açúcar<br>🐧 Team Linux, Docker na veia e uma queda por CyberSecurity<br>🧠 Curioso oficial de IA, visão computacional e redes (sim, fuço de tudo)<br> Flutter e Vue — porque nem só de backend vive um dev</p>
 
 ###
 
