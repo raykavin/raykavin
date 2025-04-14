@@ -35,7 +35,7 @@ Estou sempre em busca de experiências que desafiem minha zona de conforto, cone
 
 - ❤️ Gosto de Go como gosto de café: forte, direto e sem açúcar  
 - 🐧 Team Linux, Docker na veia e uma queda por CyberSecurity  
-- 🧠 Curioso por IA e visão computacional.
+- 🧠 Curioso por IA e visão computacional
 - 📱 Flutter e Vue — porque nem só de backend vive um dev  
 
 ---
