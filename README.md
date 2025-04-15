@@ -4,7 +4,7 @@
 
 <br>
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/raykavin-dev" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="LinkedIn" />
   </a>
@@ -21,8 +21,8 @@
 
 ---
 
-<h1 align="center">👋 Olá, seja bem-vindo(a) ao meu GitHub!</h1>
-<h3 align="center">Desenvolvedor Full Stack | Engenharia de Software</h3>
+<h1 align="left">👋 Olá, seja bem-vindo(a) ao meu GitHub!</h1>
+<h3 align="left">Desenvolvedor Full Stack | Engenharia de Software</h3>
 
 ---
 
