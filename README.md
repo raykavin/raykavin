@@ -4,7 +4,7 @@
 
 <br>
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/raykavin-dev" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="LinkedIn" />
   </a>
