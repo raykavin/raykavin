@@ -22,14 +22,14 @@
 ---
 
 <h1 align="left">👋 Olá, seja bem-vindo(a) ao meu GitHub!</h1>
-<h3 align="left">Desenvolvedor Full Stack | Engenharia de Software</h3>
+<h3 align="left">Desenvolvedor Backend | Engenharia de Software</h3>
 
 ---
 
 ### 👨‍💻 Sobre mim
 
 Me chamo **Raykavin** — desenvolvedor, entusiasta por tecnologia e eterno aprendiz.  
-Atualmente curso **Engenharia de Software** e aplico meus conhecimentos em projetos Full Stack que unem **teoria, prática e propósito**.
+Atualmente curso **Engenharia de Software** e aplico meus conhecimentos em projetos que unem **teoria, prática e propósito**.
 
 Estou sempre em busca de experiências que desafiem minha zona de conforto, conectem com pessoas incríveis e me façam evoluir como profissional e ser humano.
 
