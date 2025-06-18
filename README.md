@@ -46,7 +46,7 @@ Estou sempre em busca de experiências que desafiem minha zona de conforto, cone
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="Firebase" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="VueJS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/react-original.svg" height="40" alt="OpenCV" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="OpenCV" />
 </div>
 
 ---
