@@ -1,18 +1,3 @@
-<div align="center">
-  <a href="https://www.linkedin.com/in/raykavin-dev" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/raykavin.dev" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="25" alt="Instagram" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=raykavin.raykavin&left_color=tomato" />
-</div>
-
 ---
 
 <h1 align="left">👋 Olá, seja bem-vindo(a) ao meu GitHub!</h1>
@@ -60,11 +45,22 @@ Estou sempre em busca de experiências que desafiem minha zona de conforto, cone
 </div>
 
 ---
-
-
-
 <img src="https://raw.githubusercontent.com/raykavin/raykavin/output/snake.svg" alt="Snake animation" />
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/raykavin-dev" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/raykavin.dev" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="25" alt="Instagram" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=raykavin.raykavin&left_color=tomato" />
+</div>
 ---
 
 > _"Enquanto você estiver com vontade de correr atrás dos seus sonhos... ninguém poderá te parar."_ — **Naruto Uzumaki**
