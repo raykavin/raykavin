@@ -1,10 +1,4 @@
 <div align="center">
-  <img height="200" src="https://lh3.googleusercontent.com/d/1n68qa7w84E-rFBZ9f9X97ed974v_kzpT" />
-</div>
-
-<br>
-
-<div align="center">
   <a href="https://www.linkedin.com/in/raykavin-dev" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="LinkedIn" />
   </a>
