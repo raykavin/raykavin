@@ -67,12 +67,6 @@ Estou sempre em busca de experiências que desafiem minha zona de conforto, cone
 
 ---
 
-<div align="center">
-  <img height="150" src="https://lh3.googleusercontent.com/d/1NwguL601RtS-d64cInbV3OKSxWdgh8OC" />
-</div>
-
----
-
 > _"Enquanto você estiver com vontade de correr atrás dos seus sonhos... ninguém poderá te parar."_ — **Naruto Uzumaki**
 
 ---
