@@ -1,3 +1,14 @@
+# 🌐 Language / Idioma
+
+<div align="center">
+  
+[![English](https://img.shields.io/badge/🇺🇸-English-blue?style=for-the-badge)](README.md)
+[![Português](https://img.shields.io/badge/🇧🇷-Português-green?style=for-the-badge)](README-pt.md)
+
+</div>
+
+---
+
 # 👋 Hello! Welcome to my code universe
 
 <div align="center">
@@ -25,19 +36,16 @@ I believe the best code comes from curiosity, persistence and collaboration. I'm
 ## 🛠️ Tech Stack
 
 ### Backend & Infrastructure
-
 <div align="left">
   <img src="https://skillicons.dev/icons?i=go,nodejs,postgresql,redis,docker,linux" alt="Backend Stack" />
 </div>
 
 ### Frontend & Mobile
-
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,vue,react,flutter,html,css" alt="Frontend Stack" />
 </div>
 
 ### Tools & Others
-
 <div align="left">
   <img src="https://skillicons.dev/icons?i=git,github,firebase,vscode" alt="Tools" />
 </div>
