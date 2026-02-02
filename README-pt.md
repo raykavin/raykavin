@@ -1,4 +1,4 @@
-# 🌐 Language / Idioma
+# Language / Idioma
 
 <div align="center">
   
@@ -9,7 +9,7 @@
 
 ---
 
-# 👋 Olá! Bem-vindo ao meu universo de código
+# Olá! Bem-vindo ao meu universo de código
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Desenvolvedor+Backend;Engenheiro+de+Software;Entusiasta+de+Tecnologia;Sempre+aprendendo+algo+novo!" alt="Typing SVG" />
@@ -17,23 +17,22 @@
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 
 Me chamo **Raykavin**, sou um desenvolvedor apaixonado e eterno aprendiz. Atualmente cursando **Engenharia de Software**, sempre busco unir **teoria, prática e propósito** em cada projeto que desenvolvo.
 
 Acredito que o melhor código surge da curiosidade, persistência e colaboração. Estou sempre em busca de desafios que me façam crescer profissionalmente e como pessoa.
 
-### 💡 O que me motiva
+### O que me motiva
 
-- ❤️ **Go** — Minha linguagem favorita: forte, direta e eficiente
-- 🐧 **Linux & Docker** — Ferramentas essenciais no meu fluxo de trabalho diário
-- 🔐 **CyberSecurity** — Fascinado por segurança e proteção de dados
-- 🤖 **IA & Visão Computacional** — Explorando o futuro da tecnologia
-- 📱 **Flutter & Vue** — Porque versatilidade é fundamental
+- **Go** — Minha linguagem favorita: forte, direta e eficiente
+- **Linux & Docker** — Ferramentas essenciais no meu fluxo de trabalho diário
+- **CyberSecurity** — Fascinado por segurança e proteção de dados
+- **IA & Visão Computacional** — Explorando o futuro da tecnologia
 
 ---
 
-## 🛠️ Stack Tecnológica
+## Stack Tecnológica
 
 ### Backend & Infraestrutura
 <div align="left">
@@ -52,7 +51,7 @@ Acredito que o melhor código surge da curiosidade, persistência e colaboraçã
 
 ---
 
-## 📊 Estatísticas GitHub
+## Estatísticas GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raykavin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -65,7 +64,7 @@ Acredito que o melhor código surge da curiosidade, persistência e colaboraçã
 
 ---
 
-## 🏆 Troféus GitHub
+## Troféus GitHub
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=raykavin&theme=tokyonight&row=1&column=6&margin-h=8&margin-w=8" alt="trophy" />
@@ -73,7 +72,7 @@ Acredito que o melhor código surge da curiosidade, persistência e colaboraçã
 
 ---
 
-## 📈 Gráfico de Atividade
+## Gráfico de Atividade
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=raykavin&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="Activity Graph" />
@@ -81,7 +80,7 @@ Acredito que o melhor código surge da curiosidade, persistência e colaboraçã
 
 ---
 
-## 🐍 Snake de Contribuições
+## Snake de Contribuições
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/raykavin/raykavin/output/snake.svg" alt="Snake animation" />
@@ -89,13 +88,13 @@ Acredito que o melhor código surge da curiosidade, persistência e colaboraçã
 
 ---
 
-## 🤝 Conecte-se comigo
+## Conecte-se comigo
 
 <div align="center">
   <a href="https://www.linkedin.com/in/raykavin-dev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/raykavin.dev" target="_blank">
+  <a href="https://www.instagram.com/_raykavin" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:raykavin.meireles@gmail.com" target="_blank">
