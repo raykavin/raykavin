@@ -1,4 +1,4 @@
-# 🌐 Language / Idioma
+# Language / Idioma
 
 <div align="center">
   
@@ -9,7 +9,7 @@
 
 ---
 
-# 👋 Hello! Welcome to my code universe
+# Hello! Welcome to my code universe
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Backend+Developer;Software+Engineer;Technology+Enthusiast;Always+learning+something+new!" alt="Typing SVG" />
@@ -17,23 +17,22 @@
 
 ---
 
-## 🚀 About me
+## About me
 
 I'm **Raykavin**, a passionate developer and eternal learner. Currently studying **Software Engineering**, I always seek to unite **theory, practice and purpose** in every project I develop.
 
 I believe the best code comes from curiosity, persistence and collaboration. I'm always looking for challenges that make me grow professionally and as a person.
 
-### 💡 What drives me
+### What drives me
 
-- ❤️ **Go** — My favorite language: strong, direct and efficient
-- 🐧 **Linux & Docker** — Essential tools in my daily workflow
-- 🔐 **CyberSecurity** — Fascinated by security and data protection
-- 🤖 **AI & Computer Vision** — Exploring the future of technology
-- 📱 **Flutter & Vue** — Because versatility is fundamental
+- **Go** — My favorite language: strong, direct and efficient
+- **Linux & Docker** — Essential tools in my daily workflow
+- **CyberSecurity** — Fascinated by security and data protection
+- **AI & Computer Vision** — Exploring the future of technology
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Backend & Infrastructure
 <div align="left">
@@ -52,7 +51,7 @@ I believe the best code comes from curiosity, persistence and collaboration. I'm
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raykavin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -65,7 +64,7 @@ I believe the best code comes from curiosity, persistence and collaboration. I'm
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=raykavin&theme=tokyonight&row=1&column=6&margin-h=8&margin-w=8" alt="trophy" />
@@ -73,7 +72,7 @@ I believe the best code comes from curiosity, persistence and collaboration. I'm
 
 ---
 
-## 📈 Activity Graph
+## Activity Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=raykavin&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="Activity Graph" />
@@ -81,7 +80,7 @@ I believe the best code comes from curiosity, persistence and collaboration. I'm
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/raykavin/raykavin/output/snake.svg" alt="Snake animation" />
@@ -89,13 +88,13 @@ I believe the best code comes from curiosity, persistence and collaboration. I'm
 
 ---
 
-## 🤝 Connect with me
+## Connect with me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/raykavin-dev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/raykavin.dev" target="_blank">
+  <a href="https://www.instagram.com/_raykavin" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:raykavin.meireles@gmail.com" target="_blank">
