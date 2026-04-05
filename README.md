@@ -26,7 +26,7 @@ My day-to-day revolves around **Go**, **Linux**, and **Docker** and I'm increasi
 
 **Backend & Infrastructure**
 <br>
-<img src="https://skillicons.dev/icons?i=go,rust,postgresql,redis,docker,terraform,k8s,grafana,prometheus,linux" alt="Backend" />
+<img src="https://skillicons.dev/icons?i=go,rust,python,postgresql,redis,mongo,docker,terraform,k8s,grafana,prometheus,linux" alt="Backend" />
 
 **Frontend**
 <br>
