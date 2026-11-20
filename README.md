@@ -6,19 +6,30 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=6E7681&center=true&vCenter=true&width=435&lines=Backend+Developer+-+Go+%2F+Linux+%2F+Cloud;Software+Engineering+Student;Always+building+something." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=1F6FEB&center=true&vCenter=true&width=480&lines=Software+Developer+%C2%B7+AI+Builder;Go+%2F+Linux+%2F+Cloud;Always+building+something." alt="Software Developer · AI Builder" />
 
 </div>
 
 ---
 
-## Raykavin
+## Hi, I'm Raykavin
 
-I'm a backend developer focused on building reliable, purposeful software. 
+I build software that solves real problems, usually with **Go** on the backend. Lately I've been putting **AI** to work inside applications: agents that make decisions within rules, customer service assistants and automations.
 
-Currently studying **Software Engineering**, I care deeply about clean architecture, systems design, and getting the fundamentals right.
+I've been a developer for over 5 years and I'm studying **Software Engineering**. Most of what I build revolves around the Brazilian financial system, internet service providers and, more and more, AI applications.
 
-My day-to-day revolves around **Go**, **Linux**, and **Docker** and I'm increasingly curious about **security** and **AI**. I believe good code comes from clarity of thought, not cleverness.
+**Portfolio:** [raykavin.github.io](https://raykavin.github.io/?lang=en)
+
+---
+
+## What I'm building
+
+- **[XTrader](https://github.com/raykavin/xtrader)**: trading platform for MetaTrader 5. LLM agents decide within risk rules, and an AI supervisor turns bigger actions into proposals for a person to confirm.
+- **[Nexus Agent](https://github.com/raykavin/nexus-agent)**: LLM agent backend for customer service, with OpenAI, OpenRouter or Ollama, Python tools, RAG on Qdrant, SSE streaming and an MCP server.
+- **[GoCNAB](https://github.com/raykavin/gocnab)**: Go SDK for CNAB 240 bank payment files (PIX, wire transfers, boletos, taxes), with no external dependencies.
+- **[Helix ACS](https://github.com/raykavin/helix-acs)**: TR-069 server that lets internet providers manage their customers' routers remotely.
+
+More projects, screenshots and how I use AI are on my [portfolio](https://raykavin.github.io/?lang=en).
 
 ---
 
@@ -26,31 +37,40 @@ My day-to-day revolves around **Go**, **Linux**, and **Docker** and I'm increasi
 
 **Backend & Infrastructure**
 <br>
-<img src="https://skillicons.dev/icons?i=go,rust,python,postgresql,redis,mongo,docker,terraform,k8s,grafana,prometheus,linux" alt="Backend" />
+<img src="https://skillicons.dev/icons?i=go,rust,python,postgresql,redis,mongo,docker,terraform,k8s,grafana,prometheus,linux" alt="Go, Rust, Python, PostgreSQL, Redis, MongoDB, Docker, Terraform, Kubernetes, Grafana, Prometheus, Linux" />
 
 **Frontend**
 <br>
-<img src="https://skillicons.dev/icons?i=js,ts,react,vue,flutter" alt="Frontend" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,vue,flutter" alt="JavaScript, TypeScript, React, Vue, Flutter" />
 
 **Tools**
 <br>
-<img src="https://skillicons.dev/icons?i=git,github,firebase,vscode" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,firebase,vscode" alt="Git, GitHub, Firebase, VS Code" />
 
 ---
 
 ## GitHub
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=raykavin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raykavin&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=raykavin&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=4493f8&icon_color=4493f8&text_color=c9d1d9" />
+    <img height="160em" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=raykavin&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=ffffff&title_color=1f6feb&icon_color=1f6feb&text_color=24292f" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=raykavin&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&title_color=4493f8&text_color=c9d1d9" />
+    <img height="160em" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raykavin&layout=compact&langs_count=6&hide_border=true&bg_color=ffffff&title_color=1f6feb&text_color=24292f" />
+  </picture>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raykavin&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="Activity Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=raykavin&bg_color=0d1117&color=c9d1d9&title_color=4493f8&line=4493f8&point=58a6ff&area=true&area_color=1f6feb&hide_border=true" />
+    <img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=raykavin&bg_color=ffffff&color=24292f&title_color=1f6feb&line=1f6feb&point=1f6feb&area=true&area_color=4493f8&hide_border=true" />
+  </picture>
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/raykavin/raykavin/output/snake.svg" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/raykavin/raykavin/output/snake.svg" alt="Contribution snake" />
 </div>
 
 ---
@@ -58,16 +78,20 @@ My day-to-day revolves around **Go**, **Linux**, and **Docker** and I'm increasi
 ## Reach me
 
 <div align="center">
+  <a href="https://raykavin.github.io/?lang=en" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-1F6FEB?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/raykavin-dev" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://www.instagram.com/_raykavin" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   &nbsp;
   <a href="mailto:raykavin.meireles@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
