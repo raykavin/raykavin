@@ -22,17 +22,6 @@ Sou desenvolvedor há mais de 5 anos e curso **Engenharia de Software**. Boa par
 
 ---
 
-## O que estou construindo
-
-- **[XTrader](https://github.com/raykavin/xtrader)**: plataforma de trading para o MetaTrader 5. Agentes com LLM decidem dentro de regras de risco, e um supervisor de IA transforma ações maiores em propostas para uma pessoa confirmar.
-- **[Nexus Agent](https://github.com/raykavin/nexus-agent)**: backend de agentes LLM para atendimento, com OpenAI, OpenRouter ou Ollama, ferramentas em Python, RAG com Qdrant, streaming via SSE e servidor MCP.
-- **[GoCNAB](https://github.com/raykavin/gocnab)**: SDK em Go para arquivos de remessa CNAB 240 (PIX, TED, boleto, tributos), sem dependências externas.
-- **[Helix ACS](https://github.com/raykavin/helix-acs)**: servidor TR-069 para provedores de internet gerenciarem os roteadores dos clientes à distância.
-
-Mais projetos, capturas de tela e como uso IA estão no meu [portfólio](https://raykavin.github.io/).
-
----
-
 ## Stack
 
 **Backend & Infraestrutura**

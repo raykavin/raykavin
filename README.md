@@ -22,17 +22,6 @@ I've been a developer for over 5 years and I'm studying **Software Engineering**
 
 ---
 
-## What I'm building
-
-- **[XTrader](https://github.com/raykavin/xtrader)**: trading platform for MetaTrader 5. LLM agents decide within risk rules, and an AI supervisor turns bigger actions into proposals for a person to confirm.
-- **[Nexus Agent](https://github.com/raykavin/nexus-agent)**: LLM agent backend for customer service, with OpenAI, OpenRouter or Ollama, Python tools, RAG on Qdrant, SSE streaming and an MCP server.
-- **[GoCNAB](https://github.com/raykavin/gocnab)**: Go SDK for CNAB 240 bank payment files (PIX, wire transfers, boletos, taxes), with no external dependencies.
-- **[Helix ACS](https://github.com/raykavin/helix-acs)**: TR-069 server that lets internet providers manage their customers' routers remotely.
-
-More projects, screenshots and how I use AI are on my [portfolio](https://raykavin.github.io/?lang=en).
-
----
-
 ## Stack
 
 **Backend & Infrastructure**
